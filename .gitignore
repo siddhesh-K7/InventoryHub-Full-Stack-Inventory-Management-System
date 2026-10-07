@@ -1,0 +1,17 @@
+# .NET Core
+backend/bin/
+backend/obj/
+backend/appsettings.Development.json
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/npm-debug.log*
+
+# OS/IDE
+.DS_Store
+.vscode/
+.vs/
+*.user
+*.suo
+*.ide
